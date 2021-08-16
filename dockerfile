@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/framework/sdk
+FROM mcr.microsoft.com/dotnet/framework/sdk:4.8-windowsservercore-ltsc2019
 
 MAINTAINER matthew@ledgerscope.com
 WORKDIR NCrunch
